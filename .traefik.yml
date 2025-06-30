@@ -1,0 +1,10 @@
+displayName: DenyIP Plugin
+type: middleware
+
+import: github.com/developmentaid-org/denyIP
+
+summary: 'DenyIP is a middleware plugin which accepts IP addresses or IP address ranges and blocks requests originating from those IPs.'
+
+testData:
+  ipDenyList:
+    - 127.0.0.1
