@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Added
 - Add vendor directory
 
-[1.0.1]: https://github.com/developmentaid-org/denyIP/releases/tag/v1.0.1
+[1.0.1]: https://github.com/developmentaid-org/denyip/releases/tag/v1.0.1
 
 
 ## [1.0.0] - 2025-06-30
@@ -21,4 +21,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Support for X-Forwarded-For headers
 - Basic test coverage
 
-[1.0.0]: https://github.com/developmentaid-org/denyIP/releases/tag/v1.0.0 
+[1.0.0]: https://github.com/developmentaid-org/denyip/releases/tag/v1.0.0 

@@ -1,4 +1,4 @@
-module github.com/developmentaid-org/denyIP
+module github.com/developmentaid-org/denyip
 
 go 1.21
 
